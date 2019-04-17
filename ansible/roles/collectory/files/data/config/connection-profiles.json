@@ -3,44 +3,44 @@
         {
             'name': 'LOCATION_URL',
             'paramName': 'url',
-            'display': 'LocationURL',
+            'display': 'URL de localização',
             'type': 'text'
         },
         {
             'name': 'DATASET_TITLE',
             'paramName': 'datasetTitle',
-            'display': 'Dataset title',
+            'display': 'Título do dataset',
             'type': 'text'
         },
         {
             'name': 'CONTENT_NAMESPACE',
             'paramName': 'contentNamespace',
-            'display': 'Content Namespace',
+            'display': 'Conteúdo do namespace',
             'type': 'text'
         },        
 
         {
             'name': 'SERVICE_URL',
             'paramName': 'url',
-            'display': 'ServiceURL',
+            'display': 'URL de serviço',
             'type': 'text'
         },
         {
             'name': 'WEBSITE_URL',
             'paramName': 'url',
-            'display': 'WebsiteURL',
+            'display': 'URL do site web',
             'type': 'text'
         },
         {
             'name': 'BASE_URL',
             'paramName': 'url',
-            'display': 'BaseURL',
+            'display': 'URL base',
             'type': 'text'
         },
         {
             'name': 'RESOURCE',
             'paramName': 'resource',
-            'display': 'Resource',
+            'display': 'Recurso',
             'type': 'text'
         },
         {
@@ -64,7 +64,7 @@
         {
             'name': 'SITE_MAP',
             'paramName': 'siteMap',
-            'display': 'Sitemap',
+            'display': 'Mapa do site',
             'type': 'text'
         },
         {
@@ -94,7 +94,7 @@
         {
             'name': 'START_DATE',
             'paramName': 'start_date',
-            'display': 'Startdate',
+            'display': 'Data de início',
             'type': 'text'
         },
         {
